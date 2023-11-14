@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Asignment5-ShoppingCard</string>
+    <array name="products">
+        <item>Speaker</item>
+        <item>Laptop</item>
+        <item>Mobile</item>
+        <item>Desktop</item>
+        <item>Speaker</item>
+    </array>
+    <array name="desc">
+        <item>The speaker, with articulate expression and compelling delivery, captivates the
+            audience with insightful perspectives and a commanding presence.
+        </item>
+        <item>The laptop is a portable computer that combines sleek design with powerful
+            functionality for on-the-go computing.
+        </item>
+        <item>A mobile is a handheld device that enables communication, internet access, and various
+            applications in a compact and portable form.
+        </item>
+        <item>A desktop is a stationary computer system with a separate monitor, keyboard, and
+            processing unit designed for robust computing tasks.
+        </item>
+        <item>A mouse is a small handheld device used to navigate and interact with a computer
+            interface by moving the cursor on a screen.
+        </item>
+    </array>
+    <array name="cost">
+        <item>30.5F</item>
+        <item>1000.23F</item>
+        <item>50.76F</item>
+        <item>750.5F</item>
+        <item>20.5F</item>
+    </array>
+</resources>
